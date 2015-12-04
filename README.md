@@ -4,5 +4,5 @@
 
 
 ###Instructions
-1) $bin/rails server
-2) $localhost:3000
+- 1) $bin/rails server
+- 2) $localhost:3000
