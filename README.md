@@ -6,3 +6,6 @@
 ###Instructions
 - 1) $bin/rails server
 - 2) $localhost:3000
+
+
+![screenshot](https://github.com/kennybatista/blog-app/blob/master/screenshot.png)
